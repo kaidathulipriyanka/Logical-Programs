@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Simulate Stopwatch Program\bin\Debug\net6.0\Simulate Stopwatch Program.exe
+C:\Users\HP\source\repos\Simulate Stopwatch Program\bin\Debug\net6.0\Simulate Stopwatch Program.deps.json
+C:\Users\HP\source\repos\Simulate Stopwatch Program\bin\Debug\net6.0\Simulate Stopwatch Program.runtimeconfig.json
+C:\Users\HP\source\repos\Simulate Stopwatch Program\bin\Debug\net6.0\Simulate Stopwatch Program.dll
+C:\Users\HP\source\repos\Simulate Stopwatch Program\bin\Debug\net6.0\Simulate Stopwatch Program.pdb
+C:\Users\HP\source\repos\Simulate Stopwatch Program\obj\Debug\net6.0\Simulate Stopwatch Program.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Simulate Stopwatch Program\obj\Debug\net6.0\Simulate Stopwatch Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Simulate Stopwatch Program\obj\Debug\net6.0\Simulate Stopwatch Program.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Simulate Stopwatch Program\obj\Debug\net6.0\Simulate Stopwatch Program.AssemblyInfo.cs
+C:\Users\HP\source\repos\Simulate Stopwatch Program\obj\Debug\net6.0\Simulate Stopwatch Program.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Simulate Stopwatch Program\obj\Debug\net6.0\Simulate Stopwatch Program.dll
+C:\Users\HP\source\repos\Simulate Stopwatch Program\obj\Debug\net6.0\refint\Simulate Stopwatch Program.dll
+C:\Users\HP\source\repos\Simulate Stopwatch Program\obj\Debug\net6.0\Simulate Stopwatch Program.pdb
+C:\Users\HP\source\repos\Simulate Stopwatch Program\obj\Debug\net6.0\Simulate Stopwatch Program.genruntimeconfig.cache
+C:\Users\HP\source\repos\Simulate Stopwatch Program\obj\Debug\net6.0\ref\Simulate Stopwatch Program.dll
