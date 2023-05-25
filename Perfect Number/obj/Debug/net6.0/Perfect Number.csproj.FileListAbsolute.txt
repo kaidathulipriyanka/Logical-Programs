@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Perfect Number\bin\Debug\net6.0\Perfect Number.exe
+C:\Users\HP\source\repos\Perfect Number\bin\Debug\net6.0\Perfect Number.deps.json
+C:\Users\HP\source\repos\Perfect Number\bin\Debug\net6.0\Perfect Number.runtimeconfig.json
+C:\Users\HP\source\repos\Perfect Number\bin\Debug\net6.0\Perfect Number.dll
+C:\Users\HP\source\repos\Perfect Number\bin\Debug\net6.0\Perfect Number.pdb
+C:\Users\HP\source\repos\Perfect Number\obj\Debug\net6.0\Perfect Number.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Perfect Number\obj\Debug\net6.0\Perfect Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Perfect Number\obj\Debug\net6.0\Perfect Number.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Perfect Number\obj\Debug\net6.0\Perfect Number.AssemblyInfo.cs
+C:\Users\HP\source\repos\Perfect Number\obj\Debug\net6.0\Perfect Number.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Perfect Number\obj\Debug\net6.0\Perfect Number.dll
+C:\Users\HP\source\repos\Perfect Number\obj\Debug\net6.0\refint\Perfect Number.dll
+C:\Users\HP\source\repos\Perfect Number\obj\Debug\net6.0\Perfect Number.pdb
+C:\Users\HP\source\repos\Perfect Number\obj\Debug\net6.0\Perfect Number.genruntimeconfig.cache
+C:\Users\HP\source\repos\Perfect Number\obj\Debug\net6.0\ref\Perfect Number.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Logical_Programs\bin\Debug\net6.0\Logical_Programs.exe
+C:\Users\HP\source\repos\Logical_Programs\bin\Debug\net6.0\Logical_Programs.deps.json
+C:\Users\HP\source\repos\Logical_Programs\bin\Debug\net6.0\Logical_Programs.runtimeconfig.json
+C:\Users\HP\source\repos\Logical_Programs\bin\Debug\net6.0\Logical_Programs.dll
+C:\Users\HP\source\repos\Logical_Programs\bin\Debug\net6.0\Logical_Programs.pdb
+C:\Users\HP\source\repos\Logical_Programs\obj\Debug\net6.0\Logical_Programs.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Logical_Programs\obj\Debug\net6.0\Logical_Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Logical_Programs\obj\Debug\net6.0\Logical_Programs.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Logical_Programs\obj\Debug\net6.0\Logical_Programs.AssemblyInfo.cs
+C:\Users\HP\source\repos\Logical_Programs\obj\Debug\net6.0\Logical_Programs.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Logical_Programs\obj\Debug\net6.0\Logical_Programs.dll
+C:\Users\HP\source\repos\Logical_Programs\obj\Debug\net6.0\refint\Logical_Programs.dll
+C:\Users\HP\source\repos\Logical_Programs\obj\Debug\net6.0\Logical_Programs.pdb
+C:\Users\HP\source\repos\Logical_Programs\obj\Debug\net6.0\Logical_Programs.genruntimeconfig.cache
+C:\Users\HP\source\repos\Logical_Programs\obj\Debug\net6.0\ref\Logical_Programs.dll

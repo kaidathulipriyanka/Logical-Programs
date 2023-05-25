@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Reverse a number\bin\Debug\net6.0\Reverse a number.exe
+C:\Users\HP\source\repos\Reverse a number\bin\Debug\net6.0\Reverse a number.deps.json
+C:\Users\HP\source\repos\Reverse a number\bin\Debug\net6.0\Reverse a number.runtimeconfig.json
+C:\Users\HP\source\repos\Reverse a number\bin\Debug\net6.0\Reverse a number.dll
+C:\Users\HP\source\repos\Reverse a number\bin\Debug\net6.0\Reverse a number.pdb
+C:\Users\HP\source\repos\Reverse a number\obj\Debug\net6.0\Reverse a number.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Reverse a number\obj\Debug\net6.0\Reverse a number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Reverse a number\obj\Debug\net6.0\Reverse a number.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Reverse a number\obj\Debug\net6.0\Reverse a number.AssemblyInfo.cs
+C:\Users\HP\source\repos\Reverse a number\obj\Debug\net6.0\Reverse a number.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Reverse a number\obj\Debug\net6.0\Reverse a number.dll
+C:\Users\HP\source\repos\Reverse a number\obj\Debug\net6.0\refint\Reverse a number.dll
+C:\Users\HP\source\repos\Reverse a number\obj\Debug\net6.0\Reverse a number.pdb
+C:\Users\HP\source\repos\Reverse a number\obj\Debug\net6.0\Reverse a number.genruntimeconfig.cache
+C:\Users\HP\source\repos\Reverse a number\obj\Debug\net6.0\ref\Reverse a number.dll
